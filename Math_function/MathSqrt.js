@@ -1,0 +1,6 @@
+
+let res = Math.sqrt(36);    //IT WILL GIVE US THE SQUARE ROOT OF THE NUMBER ...
+let res1 = Math.sqrt(49);    //IT WILL GIVE US THE SQUARE ROOT OF THE NUMBER ...
+
+console.log(res);
+console.log(res1);

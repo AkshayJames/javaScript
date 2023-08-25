@@ -1,0 +1,29 @@
+let students = {
+
+    name : 'Merin',
+
+    Age : 23,
+
+    course : 'MERN',
+
+}
+
+console.log(students.name);              //now it is an object.
+
+let res = JSON.stringify(students);      //now it is an string
+
+let obj = JSON.parse(res);               //now it is an object  WE HAVE CHANGE BY USING .PARSE . 
+
+
+console.log(typeof obj);
+
+console.log(obj.Age);                  //now it is an object
+
+
+console.log(res);                       //now it is an string
+
+console.log(res['name']);   //  it is not an object after JSON it will be returned as a string.
+
+
+
+

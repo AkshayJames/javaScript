@@ -1,0 +1,20 @@
+let x = 10;
+
+let y = 40;
+
+function sum (par1,par2,disp) {   // parameters // higher order functions
+
+    let res = par1 + par2;
+
+    console.log(`sum is ${res}`);
+
+    disp(res);
+}
+
+function display(val){
+
+    console.log(`display is ${val}`);
+}
+
+
+sum(x,y,display);           //arguments // call back function
