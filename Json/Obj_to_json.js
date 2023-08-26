@@ -1,6 +1,6 @@
 let students = {
 
-    name : 'Merin',
+    name : 'Akshay',
 
     Age : 23,
 
