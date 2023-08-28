@@ -1,8 +1,8 @@
 const r = require("readline-sync");
 
-let age = r.questionint("enter your age");
+let name = r.questionint("enter your name");
 
-console.log('your age is ${age}');
+console.log('your name is ${name}');
 
 
 
