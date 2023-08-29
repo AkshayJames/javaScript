@@ -1,4 +1,4 @@
-const fruits =['apple','orange','grapes'];
+const fruits =['pineapple','apple','grapes'];
 
 fruits.forEach(function(fruit){
 

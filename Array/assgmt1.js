@@ -12,9 +12,9 @@ var mobiles=[
 
 // Print all mobile namesPrint all mobile prices Print only mobiles with samsung brand print all mobile phones below 25000Print mobile details of avaialable in price range of 25k to 30kList all 5g mobile namesList all 5g mobiles under 35000List all samsung mobile whose band=4g and dispaly type is AMOLED
 
-const index1=mobiles.map(mob =>mob [1]);
+const index1=mobiles.map(mob =>mob [4]);
 
-const index4=mobiles.map(mob => mob[3]);
+const index4=mobiles.map(mob => mob[2]);
 
 console.log(index1);
 
