@@ -7,6 +7,7 @@ var mobiles=[
 [1005,"apple","12 pro max",100000,"snapdragon","AMOLED","5g"],
 [1006,"one plus","nord 2",29000,"snapdragon","AMOLED","4g"],
 [1007,"one plus","nord 2",15000,"mediatek","LED","4g"]
+[1008,"vivo","model 2",25000,"mediatek","LED","3g"]
 ]
 
 // Print all mobile namesPrint all mobile prices Print only mobiles with samsung brand print all mobile phones below 25000Print mobile details of avaialable in price range of 25k to 30kList all 5g mobile namesList all 5g mobiles under 35000List all samsung mobile whose band=4g and dispaly type is AMOLED
