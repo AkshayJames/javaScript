@@ -1,4 +1,4 @@
-let fruit = ['orange','apple','pineapple','mango'];
+let fruit = ['grapes','apple','pineapple','orange'];
 
 
 //let res= fruit.toString();
